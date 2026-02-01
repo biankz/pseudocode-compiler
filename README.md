@@ -55,7 +55,7 @@ The project performs lexical analysis, parsing, semantic analysis, and runtime e
 ---
 
 ## Project Structure
-
+```text
 .
 ├── ASTNode.hpp / ASTNode.cpp # AST representation and evaluation logic
 ├── SymbolTable.hpp / SymbolTable.cpp # Symbol table and scope management
@@ -64,8 +64,7 @@ The project performs lexical analysis, parsing, semantic analysis, and runtime e
 ├── limbaj.y # Parser and semantic rules (Bison)
 ├── compile.sh # Build script
 └── README.md
-
-
+```
 ---
 
 ## Build & Run
