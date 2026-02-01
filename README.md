@@ -74,6 +74,15 @@ The project performs lexical analysis, parsing, semantic analysis, and runtime e
 - `flex`
 - `bison`
 
+---
+
+## Authors
+
+This project was developed as a team effort by:
+- Zvinca Bianca
+- Craciun Alexandra-Nicoleta
+
+
 ### Compile
 ```bash
 chmod +x compile.sh
