@@ -79,7 +79,7 @@ The project performs lexical analysis, parsing, semantic analysis, and runtime e
 chmod +x compile.sh
 ./compile.sh limbaj
 ./limbaj program.txt
-
+```
 ---
 
 ## Authors
